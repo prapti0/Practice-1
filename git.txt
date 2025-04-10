@@ -1,0 +1,1 @@
+It is a version control system, used to track changes done in source code
