@@ -1,0 +1,2 @@
+It is a version control system, used to track changes 
+Today we are learning the git branch concept
